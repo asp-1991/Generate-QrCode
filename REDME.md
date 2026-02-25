@@ -29,7 +29,7 @@ Aplicação web simples e intuitiva para geração de QR Codes a partir de texto
 
 ## 🌐 Acesso ao Projeto
 
-👉 https://seu-usuario.github.io/gerador-qr-code/
+👉 http://asp-1991.github.io/Generate-QrCode
 
 ## 🧠 Como funciona
 
